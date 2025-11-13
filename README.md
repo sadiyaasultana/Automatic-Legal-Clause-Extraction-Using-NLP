@@ -25,24 +25,22 @@ It helps lawyers, legal researchers, and organizations save time and improve acc
 | **Version Control** | Git + GitHub |
 
 Automatic-Legal-Clause-Extraction-Using-NLP/
-
-│
-├── app.py # Flask main application file
+├── app.py
 ├── model/
-│ ├── clause_model.pkl # Trained ML model
-│ └── vectorizer.pkl # TF-IDF or embedding vectorizer
+│   ├── clause_model.pkl
+│   └── vectorizer.pkl
 ├── static/
-│ ├── style.css # Frontend styling
-│ └── script.js # Client-side logic
+│   ├── style.css
+│   └── script.js
 ├── templates/
-│ ├── index.html # Home UI
-│ └── result.html # Output display page
+│   ├── index.html
+│   └── result.html
 ├── dataset/
-│ ├── legal_dataset.csv # Training data (clauses + labels)
-│ └── sample_input.txt
-├── requirements.txt # Required Python dependencies
-├── README.md # Project documentation
-└── LICENSE # Open-source license 
+│   ├── legal_dataset.csv
+│   └── sample_input.txt
+├── requirements.txt
+├── README.md
+└── LICENSE
 
 ## ⚙️ Installation and Setup
 
