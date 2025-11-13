@@ -1,6 +1,6 @@
 Automatic Legal Clause Extraction Using NLP  
 
-This project Automatically identifies and classifies legal clauses from contracts, agreements, and other legal documents using Natural Language Processing (NLP)** and **Machine Learning (ML)**.  
+This project Automatically identifies and classifies legal clauses from contracts, agreements, and other legal documents using ***Natural Language Processing (NLP)** and **Machine Learning (ML)**.  
 It helps lawyers, legal researchers, and organizations save time and improve accuracy by automating the process of clause identification (e.g., Confidentiality, Liability, Termination, Payment, etc.).
 
 
@@ -24,8 +24,7 @@ It helps lawyers, legal researchers, and organizations save time and improve acc
 | **IDE** | Visual Studio Code |
 | **Version Control** | Git + GitHub |
 
-Automatic-Legal-Clause-Extraction-Using-NLP/
-│
+Automatic-Legal-Clause-Extraction-Using-NLP/│
 ├── app.py # Flask main application file
 ├── model/
 │ ├── clause_model.pkl # Trained ML model
