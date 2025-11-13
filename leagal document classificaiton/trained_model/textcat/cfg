@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "LegalClause",
+    "CrimeClause"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
